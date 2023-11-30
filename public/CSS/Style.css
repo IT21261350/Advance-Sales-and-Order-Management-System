@@ -1,0 +1,88 @@
+/* Common for all pages */
+
+body {
+    padding: 50px;
+}
+
+.topic {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
+
+.bn {
+    margin-left: 220px;
+    margin-bottom: 20px;
+}
+
+.con1 {
+    margin-bottom: 10px;
+}
+
+.btn2 {
+    background-color: crimson;
+}
+
+.btn6 {
+    background-color: rgb(92, 208, 15);
+}
+
+.btn7 {
+    background-color: crimson;
+}
+
+.bn4 {
+    text-decoration: none;
+}
+
+.bn5 {
+    text-decoration: none;
+}
+
+#bn6 {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.bn8 {
+    margin-top: 5px;
+}
+
+.bn9 {
+    margin-top: 20px;
+}
+
+/* Styles of navigation bar */
+
+.navbar {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-link {
+    color: #333;
+    margin-right: 20px;
+}
+
+.nav-link:hover {
+    color: #0069d9;
+}
